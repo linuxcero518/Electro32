@@ -1,0 +1,36 @@
+Package: libportaudio-dev
+Architecture: i386
+Version: 19.7.0
+Priority: Optional
+Section: libs
+Maintainer: Anthony Báez <linuxcero518@gmail.com>
+Depends: libportaudio2 (>= 19.7.0), libc6 (>= 2.31), libasound2-dev, libjack-dev
+Filename: pool/main/p/libportaudio-dev_19.7.0_i386.deb
+Size: 74428
+MD5sum: 449f109fbdf43948d507a57176bd5417
+SHA1: c4bb1a47ee5d1fa5400fb1d286d2b08d7bf283d9
+SHA256: 32b8a19392c9ac4ff54f3abae70884cb99b9caaf2783afa01b3bb699052dbc61
+SHA512: 45a5d6a2e71bb146091368fb18bd65169b9d037f0c0edd28521a2720f01ca02729f0fc4fa155f879b07a33be654d7f2c9b94add3fc983db38bbd9bfd6a3e1f53
+Description: Development files for PortAudio
+ PortAudio ia a cross-platform audio library that provides a simple API
+ for recording and playing sound using different backends (ALSA, JACK, etc).
+ This package contains the development headers and static libraries.
+
+Package: libportaudio2
+Architecture: i386
+Version: 19.7.0
+Priority: optional
+Section: libs
+Maintainer: Anthony Báez <linuxcero518@gmail.com>
+Depends: libc6 (>= 2.31), libasound2, libjack0
+Filename: pool/main/p/libportaudio2_19.7.0_i386.deb
+Size: 74484
+MD5sum: ebea7c593b42f9d7c58cd7cd1dc85ec3
+SHA1: 84f348baf5bfdfe74c256d7215fb801150d6e745
+SHA256: 340a20b16f8a32dce5ef77a2b34101403af678a664b6c2bdd6aca9724c471dc6
+SHA512: b98186bddd75d02b63330abe12f2e66267d6b41f5d8ff382209c7d5b23db0f154276eff6243799883c0117a17d733d99e57225eae7b8bd40fdd96e1a2b30c7d0
+Description: Portable cross-platform audio library
+ PortAudio is a cross-platform audio library that provides a simple API
+ for recording and playing sound using different backends (ALSA, JACK, etc).
+ This package contains the shared library required at runtime.
+
