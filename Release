@@ -1,0 +1,21 @@
+Date: Tue, 24 Feb 2026 02:42:50 +0000
+MD5Sum:
+ 56bef1060158e91b72a87d100fd0e8e4               38 Release
+ 5d31981e614379e761671eb9eff7addc             1340 dists/excalibur/Release
+ 4d1de174b3c7e15f72f0da45632baabe             1670 dists/excalibur/main/binary-i386/Packages
+ 10993a33c6ccafcdca9cb15cb965633b              840 dists/excalibur/main/binary-i386/Packages.gz
+SHA1:
+ 7ec15f3573cb6510a0d6b12c7e4b78cc3e425b58               38 Release
+ d24af88d88d2deb2373ab7669168883f52d079e1             1340 dists/excalibur/Release
+ 88c004ace6e4e8056980b66f02e2d610c79a601e             1670 dists/excalibur/main/binary-i386/Packages
+ 1b9ca88ca12e7a5ebbdf8ee2213d791b6669f58b              840 dists/excalibur/main/binary-i386/Packages.gz
+SHA256:
+ 96e229e7c29871d0b735ac4ef381b132c5762f649ee5c9ba2a58c03407b2bccf               38 Release
+ 62aace97dd406c3013db087c5d724ceb7a87b4a89aa1217a7e5dddd5ba33a897             1340 dists/excalibur/Release
+ 1841d0bdf74a1aa42651106972e3d49b29a7726399e657cb2162df54975493ca             1670 dists/excalibur/main/binary-i386/Packages
+ 7dde670f01b7c742c71bc60e33cb347b0f7b5ee851dd971651ddf4a5e7694406              840 dists/excalibur/main/binary-i386/Packages.gz
+SHA512:
+ 1e97834b006bd07bf1fb0c459efe0953fd70d175a7692de266a1a544f0972830269ac25ddb9d86e4b4dcb1088bfdd2a9674c1b9e8f4003f42f3f517b9cb69973               38 Release
+ 6a40767e46de3f096f721cb63f047f6282d571b51a756a863bcfa91933d1381239b532c44bc8964abb9c71618801e9999a14415a8f18c7d053b87e4a0919a405             1340 dists/excalibur/Release
+ 4a3cf7856ef7ea89d89e053922b5a775d024e07a91b6c615967dbddeae9b05cc492beed2985c51fd8e0887493dd73e0dc4a87a5d3f55dd57cde93181c3425f79             1670 dists/excalibur/main/binary-i386/Packages
+ b4bc7c05f0ab7a0c67474c672f54c8b2aa4c8a0616d752ed5506fb3514b9b62e3bf48ccb87ccbc4b6ef088c254af12cfd12a8e3c27a8e7b3f14831f144d4a63d              840 dists/excalibur/main/binary-i386/Packages.gz
