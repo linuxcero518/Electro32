@@ -4,7 +4,7 @@ Origin: Electro32
 Label: Electro32
 Suite: excalibur
 Codename: excalibur
-Architecture: i386
+Architectures: i386
 Components: main
 Description: Electro32 Mirror de devuan 6 excalibur para 32 bits
 Date: Sun, 22 Feb 2026 16:59:06 +0000
